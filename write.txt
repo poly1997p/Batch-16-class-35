@@ -1,0 +1,4 @@
+logical operator 
+
+|| this means (or)
+&& this means (and)
